@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Koh's%Github%20render&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Koh's%20Github&fontSize=50" />
 
 ## 👋 프론트엔드 개발자 고태호입니다.
 
