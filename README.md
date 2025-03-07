@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Koh%20Taiho&fontColor=d9a76a&fontAlign=70&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8c5b3f&height=150&section=header&text=Koh%20Taiho&fontColor=593932&fontAlign=85&fontAlignY=30&fontSize=50" />
 
 ## 👋 프론트엔드 개발자 고태호입니다.
 
