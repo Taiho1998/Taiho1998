@@ -14,8 +14,7 @@
 <br>
 <br>
 
-　[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pisouz7)](https://solved.ac/pisouz7) 　Taiho Koh'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@Taiho1998*　📍 ***Pangyo*** *South Korea*
+Taiho Koh'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@Taiho1998*　📍 ***Pangyo*** *South Korea*
 
 <hr>
 
