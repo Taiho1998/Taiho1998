@@ -34,4 +34,4 @@ Taiho Koh'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@Taiho1998*　📍 ***Pangyo*** *South 
 <br>
 
 🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
-<--<img src="https://img.shields.io/badge/적고싶은글자(스택명, 인스타 계정 등...)-(# 제외 색상코드 6자리)?style=for-the-badge&logo=(로고 이름)&logoColor=white">-->
+<!--<img src="https://img.shields.io/badge/적고싶은글자(스택명, 인스타 계정 등...)-(# 제외 색상코드 6자리)?style=for-the-badge&logo=(로고 이름)&logoColor=white">-->
