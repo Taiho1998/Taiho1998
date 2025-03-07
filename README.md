@@ -40,3 +40,12 @@ Taiho Koh'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@Taiho1998*　📍 ***Pangyo*** *South 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+<br>
+
+📞✉️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 & 𝙻𝚒𝚗𝚔𝚜
+
+<img src="https://img.shields.io/badge/tgo12323@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+<br>
