@@ -4,8 +4,8 @@
 
 <br>
   
-<a href="https://github.com/Taiho1998"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Taiho1998&show_icons=true&theme=buefy&card_width=300" /></a>
-<a href="https://github.com/Taiho1998?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taiho1998&layout=compact&langs_count=8&card_width=300" /></a>
+<a href="https://github.com/Taiho1998"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Taiho1998&show_icons=true&theme=buefy&card_width=300&cache_seconds=1800" /></a>
+<a href="https://github.com/Taiho1998?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taiho1998&layout=compact&langs_count=8&card_width=300&cache_seconds=1800" /></a>
 
 
 </div>
